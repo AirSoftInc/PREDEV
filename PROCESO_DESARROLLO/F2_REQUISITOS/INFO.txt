@@ -1,0 +1,4 @@
+Files that will be hosted here: 
+	
+	* PL_ESPECIFICACION_DE_REQUISITOS
+	* CASOS_DE_USO 
