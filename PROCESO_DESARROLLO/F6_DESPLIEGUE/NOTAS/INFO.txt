@@ -1,3 +1,0 @@
-Files that will be hosted here
-
-	* NOTAS_DE_LA_VERSION

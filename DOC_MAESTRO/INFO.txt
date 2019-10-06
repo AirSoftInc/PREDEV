@@ -1,3 +1,0 @@
-Files that will be hosted here:
-
-	*DOC_MAESTRO_NOMBRE_CORTO_DEL_PROYECTO
