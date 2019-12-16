@@ -1,0 +1,185 @@
+.selector-zones{
+    border: none;
+    background-color: transparent;
+    color: #4d4d4d;
+}
+
+.button{
+    font-size: 10px;
+    position: relative;
+    font-weight: bold;
+    display: inline-block;
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+.selector{
+    height: 2px;
+    border: none;
+    background-color: #4d4d4d;
+}
+
+.flecha{
+    color: #4d4d4d;
+    font-size: 17px;
+}
+
+.huasteca-alta {
+    margin-top: -1070px;
+    margin-left: -766px;
+}
+
+.selector-huasteca-alta{
+    width: 140px;
+}
+
+.flecha-huasteca-alta{
+    margin-top: -17px;
+    margin-left: 209px;
+}
+
+.huasteca-baja {
+    margin-top: -890px;
+    margin-left: -200px;
+}
+
+.selector-huasteca-baja{
+    width: 140px;
+}
+
+.flecha-huasteca-baja{
+    margin-top: -17px;
+    margin-left: 212px;
+}
+
+.totonaca{
+    margin-top: -730px;
+    margin-left: -130px;
+}
+
+.selector-totonaca{
+    width: 140px;
+}
+
+.flecha-totonaca{
+    margin-top: -17px;
+    margin-left: 183px;
+}
+
+.nautla{
+    margin-top: -660px;
+    margin-left: -130px;
+}
+
+.selector-nautla{
+    width: 140px;
+}
+
+.flecha-nautla{
+    margin-top: -17px;
+    margin-left: 169px;
+}
+
+.capital{
+    margin-top: -555px;
+    margin-left: -190px;
+}
+
+.selector-capital{
+    width: 140px;
+}
+
+.flecha-capital{
+    margin-top: -17px;
+    margin-left: 170px;
+}
+
+.sotavento{
+    margin-top: -460px;
+    margin-left: -125px;
+}
+
+.selector-sotavento{
+    width: 122px;
+}
+
+.flecha-sotavento{
+    margin-top: -17px;
+    margin-left: 170px;
+}
+
+.montañas{
+    margin-top: -390px;
+    margin-left: -250px;
+}
+
+.selector-montañas{
+    width: 100px;
+}
+
+.flecha-montañas{
+    margin-top: -17px;
+    margin-left: 169px;
+}
+
+.tuxtla{
+    margin-top: -280px;
+    margin-left: -80px;
+}
+
+.selector-tuxtla{
+    width: 200px;
+}
+
+.flecha-tuxtla{
+    margin-top: -17px;
+    margin-left: 250px;
+}
+
+.papaloapan{
+    margin-top: -190px;
+    margin-left: -300px;
+}
+
+.selector-papaloapan{
+    width: 195px;
+}
+
+.flecha-papaloapan{
+    margin-top: -17px;
+    margin-left: 252px;
+}
+
+.olmeca{
+    margin-top: -95px;
+    margin-left: -150px;
+}
+
+.selector-olmeca{
+    width: 215px;
+}
+
+.flecha-olmeca{
+    margin-top: -17px;
+    margin-left: 250px;
+}
+
+.map-img{
+    width: 700px;
+    height: 300px;
+}
+
+.pie-chart-position{
+    min-width: 310px;
+    height: 400px;
+    max-width: 600px;
+    overflow: hidden;
+    margin-top: 6px;
+}
+
+.highcharts-credits{
+  cursor: none !important;
+  color: transparent !important;
+  font-size: 1px !important;
+  fill: transparent !important;
+}

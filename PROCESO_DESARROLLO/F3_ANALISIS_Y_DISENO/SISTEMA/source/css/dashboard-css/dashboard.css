@@ -1,0 +1,139 @@
+.page-title{
+    line-height: 78px;
+    font-size: 30px;
+    padding-left: 20%;
+}
+
+.das-img{
+    width:80%;
+}
+.side-nav{
+    width: 250px;
+}
+.user-view{
+    padding: 5px 32px !important;
+    margin-bottom: 0px;
+}
+
+.side-nav-title{
+    padding: 1rem 1.6rem .1rem 1.6rem;
+    font-size: .8571rem;
+    text-transform: uppercase;
+    letter-spacing: .5px;
+    font-weight: 600;
+}
+
+.side-nav-item{
+    letter-spacing: .5px;
+}
+
+.side-nav > .side-nav-item>a:hover{
+    background-color:  #212529 !important;
+}
+
+.side-nav > .side-nav-item>a>i:hover{
+    color: black !important;
+}
+
+.collapsible-header>i{
+    font-size: 1rem;
+    padding: 0px 16px;
+}
+.collapsible-header>i:hover{
+    color: black !important;
+}
+
+.collapsible-header:hover{
+    background-color: #212529 !important;
+    color: white !important;
+}
+
+.cb-a{
+    padding-left: 6rem !important;
+}
+
+.bb-10{
+    border-bottom: solid 10px #64e500;
+}
+
+.mr-15{
+    margin-right: 15px !important;
+}
+
+.h-85{
+    height: 85px;
+}
+
+nav .nav-wrapper {
+    position: relative;
+    height: 105%;
+}
+
+.fixed-action-btn.horizontal ul {
+    text-align: right;
+    right: 64px;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    height: 100%;
+    left: auto;
+    width: 171px;
+}
+
+.profile-buttom{
+    position: relative !important;
+    height: 16px !important;
+}
+
+nav ul a.btn, nav ul a.btn-large, nav ul a.btn-large, nav ul a.btn-flat, nav ul a.btn-floating {
+    margin-top: -28px;
+    margin-left: -6px;
+    margin-right: 8px;
+}
+
+.profile-buttom-size{
+    width: 50px !important;
+    height: 50px !important;
+}
+
+.profile-img-size{
+    width: 50px;
+    height: 50px;
+}
+
+.icon-position{
+    margin-top: -11px;
+    padding-left: 3px;
+    color: white !important;
+}
+
+.icon-web{
+    margin-top: -11px;
+    padding-left: 0px;
+    color: white !important;
+}
+
+.align-container{
+    margin-left: 235px;
+    width: 161vh;
+}
+
+.table-size{
+    width: 105%;
+    display: table;
+}
+
+.side-nav {
+    width: 225px;
+}
+
+.color-icon{
+    background-color: #26a69a !important;
+}
+
+.button-trash{
+    margin-top: -19px;
+    position: absolute;
+    margin-left: -15px;
+    font-size: 15px !important;
+}
